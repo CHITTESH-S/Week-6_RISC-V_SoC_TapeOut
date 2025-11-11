@@ -330,15 +330,15 @@ Click "Next"
 
 ### 📚 Essential Documentation & Repositories
 
-📘 **Primary Reference** | SoC Design and Planning (NASSCOM × VSD) | [GitHub Repo](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/)
+📘 **Primary Reference** - [SoC Design and Planning (NASSCOM × VSD)](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd/)
 
-📙 **OpenLANE Docs** | Complete flow documentation | [ReadTheDocs](https://openlane.readthedocs.io/)
+📙 **OpenLANE Docs** - [Complete flow documentation](https://openlane.readthedocs.io/)
 
-📗 **Sky130 PDK** | Process design kit details | [Skywater PDK](https://skywater-pdk.readthedocs.io/)
+📗 **Sky130 PDK** - [Skywater PDK: Process design kit details](https://skywater-pdk.readthedocs.io/)
 
-📕 **Magic Tutorial** | Layout design guide | [OpenCircuitDesign](http://opencircuitdesign.com/magic/)
+📕 **Magic Tutorial** - [OpenCircuitDesign: Layout design guide](http://opencircuitdesign.com/magic/)
 
-📓 **OpenSTA Manual** | Timing analysis reference | [GitHub](https://github.com/The-OpenROAD-Project/OpenSTA)
+📓 **OpenSTA Manual** - [Timing analysis reference](https://github.com/The-OpenROAD-Project/OpenSTA)
 
 ---
 
